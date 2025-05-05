@@ -1,0 +1,2815 @@
+[
+  {
+    "245": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Mysteries of the ancient world /"
+          },
+          {
+            "code": "c",
+            "value": "prepared by the Special Publications Division, National Geographic Society."
+          }
+        ]
+      }
+    ],
+    "260": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Washington :"
+          },
+          {
+            "code": "b",
+            "value": "The Society,"
+          },
+          {
+            "code": "c",
+            "value": "c1979."
+          }
+        ]
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "223 p. :"
+          },
+          {
+            "code": "b",
+            "value": "ill. ;"
+          },
+          {
+            "code": "c",
+            "value": "26 cm."
+          }
+        ]
+      }
+    ],
+    "500": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Includes index."
+          }
+        ]
+      }
+    ],
+    "504": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Bibliography: p. 220."
+          }
+        ]
+      }
+    ],
+    "650": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Civilization, Ancient."
+          }
+        ]
+      },
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Antiquities."
+          }
+        ]
+      }
+    ],
+    "710": [
+      {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "National Geographic Society (U.S.)."
+          },
+          {
+            "code": "b",
+            "value": "Special Publications Division."
+          }
+        ]
+      }
+    ],
+    "852": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "p",
+            "value": "3289100100060U"
+          },
+          {
+            "code": "a",
+            "value": "LHS"
+          },
+          {
+            "code": "x",
+            "value": "FSC@aEL Nonfiction@c20000809"
+          },
+          {
+            "code": "h",
+            "value": "ELEM 135.42 BRE"
+          }
+        ]
+      }
+    ],
+    "961": [
+      {
+        "ind1": "w",
+        "ind2": "l",
+        "subfields": [
+          {
+            "code": "t",
+            "value": "606"
+          }
+        ]
+      },
+      {
+        "ind1": "w",
+        "ind2": "l",
+        "subfields": [
+          {
+            "code": "t",
+            "value": "6"
+          }
+        ]
+      }
+    ],
+    "008": [
+      "000809s1979    ||||||||||||||||||||||||u"
+    ],
+    "010": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "   77093402 //r86"
+          }
+        ]
+      }
+    ],
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "0870442546 :"
+          },
+          {
+            "code": "c",
+            "value": "$5.75"
+          }
+        ]
+      }
+    ],
+    "050": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "CB311"
+          },
+          {
+            "code": "b",
+            "value": ".M92"
+          }
+        ]
+      }
+    ],
+    "082": [
+      {
+        "ind1": "0",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "001.9/4"
+          }
+        ]
+      }
+    ],
+    "005": [
+      "20160614142907.0"
+    ],
+    "001": [
+      "101"
+    ],
+    "003": [
+      "4830800"
+    ]
+  },
+  {
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Moore, Laurence A."
+          }
+        ]
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Lightning never strikes twice and other false facts /"
+          },
+          {
+            "code": "c",
+            "value": "Laurence Moore."
+          }
+        ]
+      }
+    ],
+    "260": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "New York :"
+          },
+          {
+            "code": "b",
+            "value": "Avon Books,"
+          },
+          {
+            "code": "c",
+            "value": "1994."
+          }
+        ]
+      }
+    ],
+    "263": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "9406"
+          }
+        ]
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "p. cm."
+          }
+        ]
+      }
+    ],
+    "650": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Curiosities and wonders."
+          }
+        ]
+      },
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Handbooks, vade-mecums, etc."
+          }
+        ]
+      }
+    ],
+    "852": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "p",
+            "value": "3289100010022S"
+          },
+          {
+            "code": "a",
+            "value": "LHS"
+          },
+          {
+            "code": "x",
+            "value": "FSC@aHS Non-Fiction@c20000809"
+          },
+          {
+            "code": "h",
+            "value": "031.02 Moo"
+          }
+        ]
+      }
+    ],
+    "961": [
+      {
+        "ind1": "w",
+        "ind2": "l",
+        "subfields": [
+          {
+            "code": "t",
+            "value": "606"
+          }
+        ]
+      }
+    ],
+    "008": [
+      "000809s1994    ||||||||||||||||||||||||u"
+    ],
+    "010": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "   93040648"
+          }
+        ]
+      }
+    ],
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "0380774771 :"
+          },
+          {
+            "code": "c",
+            "value": "$10.00"
+          }
+        ]
+      }
+    ],
+    "050": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "AG243"
+          },
+          {
+            "code": "b",
+            "value": ".M657 1994"
+          }
+        ]
+      }
+    ],
+    "082": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "031.02"
+          }
+        ]
+      }
+    ],
+    "005": [
+      "20160614142904.0"
+    ],
+    "001": [
+      "106"
+    ],
+    "003": [
+      "4830800"
+    ]
+  },
+  {
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Weate, Jeremy."
+          }
+        ]
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "A young person's guide to philosophy :"
+          },
+          {
+            "code": "b",
+            "value": "\"I think, therefore I am\" /"
+          },
+          {
+            "code": "c",
+            "value": "consultant editor, Jeremy Weate ; illustrated by Peter Lawman."
+          }
+        ]
+      }
+    ],
+    "246": [
+      {
+        "ind1": "3",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Guide to philosophy"
+          }
+        ]
+      }
+    ],
+    "250": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "1st American ed."
+          }
+        ]
+      }
+    ],
+    "260": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "New York :"
+          },
+          {
+            "code": "b",
+            "value": "DK Pub.,"
+          },
+          {
+            "code": "c",
+            "value": "c1998."
+          }
+        ]
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "64 p. :"
+          },
+          {
+            "code": "b",
+            "value": "col. ill., map ;"
+          },
+          {
+            "code": "c",
+            "value": "29 cm."
+          }
+        ]
+      }
+    ],
+    "500": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Includesindex."
+          }
+        ]
+      }
+    ],
+    "520": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Introduces over twenty-five of the world's greatest philosophers and presents a simple version of the tenets of philosophy."
+          }
+        ]
+      }
+    ],
+    "650": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Philosophy"
+          },
+          {
+            "code": "x",
+            "value": "Juvenile literature."
+          }
+        ]
+      },
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Philosophers"
+          },
+          {
+            "code": "x",
+            "value": "Juvenile literature."
+          }
+        ]
+      },
+      {
+        "ind1": " ",
+        "ind2": "1",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Philosophy."
+          }
+        ]
+      },
+      {
+        "ind1": " ",
+        "ind2": "1",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Philosophers."
+          }
+        ]
+      }
+    ],
+    "852": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "p",
+            "value": "3289100010027X"
+          },
+          {
+            "code": "a",
+            "value": "LHS"
+          },
+          {
+            "code": "x",
+            "value": "FSC@aHS Non-Fiction@c20000809"
+          },
+          {
+            "code": "h",
+            "value": "100 Wea"
+          }
+        ]
+      }
+    ],
+    "961": [
+      {
+        "ind1": "w",
+        "ind2": "l",
+        "subfields": [
+          {
+            "code": "t",
+            "value": "606"
+          }
+        ]
+      }
+    ],
+    "008": [
+      "000809s1998    ||||||||||||||||||||||||u"
+    ],
+    "010": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "   97033454"
+          }
+        ]
+      }
+    ],
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "0789430746"
+          }
+        ]
+      }
+    ],
+    "040": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "DLC"
+          },
+          {
+            "code": "c",
+            "value": "DLC"
+          },
+          {
+            "code": "d",
+            "value": "DLC"
+          }
+        ]
+      }
+    ],
+    "042": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "lcac"
+          }
+        ]
+      }
+    ],
+    "050": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "BD31"
+          },
+          {
+            "code": "b",
+            "value": ".W43 1998"
+          }
+        ]
+      }
+    ],
+    "082": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "100"
+          }
+        ]
+      }
+    ],
+    "005": [
+      "20160614142905.0"
+    ],
+    "001": [
+      "107"
+    ],
+    "003": [
+      "4830800"
+    ]
+  },
+  {
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Norman, Diana."
+          }
+        ]
+      }
+    ],
+    "240": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Stately ghosts of England"
+          }
+        ]
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Tom Corbett's stately ghosts of England."
+          }
+        ]
+      }
+    ],
+    "260": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "New York,"
+          },
+          {
+            "code": "b",
+            "value": "Taplinger Pub. Co."
+          },
+          {
+            "code": "c",
+            "value": "[1970, c1963]"
+          }
+        ]
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "190 p."
+          },
+          {
+            "code": "b",
+            "value": "port."
+          },
+          {
+            "code": "c",
+            "value": "22 cm."
+          }
+        ]
+      }
+    ],
+    "500": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "First published in London under title: The stately ghosts of England."
+          }
+        ]
+      }
+    ],
+    "650": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Ghosts"
+          },
+          {
+            "code": "z",
+            "value": "England."
+          }
+        ]
+      }
+    ],
+    "740": [
+      {
+        "ind1": "0",
+        "ind2": "1",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Stately ghosts of England."
+          }
+        ]
+      }
+    ],
+    "852": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "p",
+            "value": "3289100010042U"
+          },
+          {
+            "code": "a",
+            "value": "LHS"
+          },
+          {
+            "code": "x",
+            "value": "FSC@aHS Non-Fiction@c20000809"
+          },
+          {
+            "code": "h",
+            "value": "133.1 Nor"
+          }
+        ]
+      }
+    ],
+    "961": [
+      {
+        "ind1": "w",
+        "ind2": "l",
+        "subfields": [
+          {
+            "code": "t",
+            "value": "606"
+          }
+        ]
+      }
+    ],
+    "008": [
+      "000809t19701963||||||||||||||||||||||||u"
+    ],
+    "010": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "   77125930 //r83"
+          }
+        ]
+      }
+    ],
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "0800877454"
+          }
+        ]
+      }
+    ],
+    "043": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "e-uk-en"
+          }
+        ]
+      }
+    ],
+    "050": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "BF1475"
+          },
+          {
+            "code": "b",
+            "value": ".N6 1970"
+          }
+        ]
+      }
+    ],
+    "082": [
+      {
+        "ind1": "0",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "133.1/0942"
+          }
+        ]
+      }
+    ],
+    "005": [
+      "20160614142906.0"
+    ],
+    "001": [
+      "115"
+    ],
+    "003": [
+      "4830800"
+    ]
+  },
+  {
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Hall, Allan."
+          }
+        ]
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Nostradamus and visions of the future."
+          }
+        ]
+      }
+    ],
+    "260": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Enderby, Leicester :"
+          },
+          {
+            "code": "b",
+            "value": "Blitz Editions,"
+          },
+          {
+            "code": "c",
+            "value": "1994, c1993."
+          }
+        ]
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "80 p. :"
+          },
+          {
+            "code": "b",
+            "value": "ill. ;"
+          },
+          {
+            "code": "c",
+            "value": "29 cm."
+          }
+        ]
+      }
+    ],
+    "852": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "p",
+            "value": "3289100010044W"
+          },
+          {
+            "code": "a",
+            "value": "LHS"
+          },
+          {
+            "code": "x",
+            "value": "FSC@aHS Non-Fiction@c20000809"
+          },
+          {
+            "code": "h",
+            "value": "133.3 Hal"
+          }
+        ]
+      }
+    ],
+    "961": [
+      {
+        "ind1": "w",
+        "ind2": "l",
+        "subfields": [
+          {
+            "code": "t",
+            "value": "606"
+          }
+        ]
+      }
+    ],
+    "008": [
+      "000809t19941993||||||||||||||||||||||||u"
+    ],
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "1856052230"
+          }
+        ]
+      }
+    ],
+    "040": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "MnCdSW-R"
+          },
+          {
+            "code": "c",
+            "value": "MnCdSW-R"
+          }
+        ]
+      }
+    ],
+    "005": [
+      "20160614142906.0"
+    ],
+    "001": [
+      "116"
+    ],
+    "003": [
+      "4830800"
+    ]
+  },
+  {
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Wilcox, Tamara,"
+          },
+          {
+            "code": "d",
+            "value": "1941-"
+          }
+        ]
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Mysterious detectives :"
+          },
+          {
+            "code": "b",
+            "value": "psychics /"
+          },
+          {
+            "code": "c",
+            "value": "by Tamara Wilcox."
+          }
+        ]
+      }
+    ],
+    "260": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Milwaukee :"
+          },
+          {
+            "code": "b",
+            "value": "distributor, Raintree Publishers,"
+          },
+          {
+            "code": "c",
+            "value": "c1977."
+          }
+        ]
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "48 p. :"
+          },
+          {
+            "code": "b",
+            "value": "ill. (some col.) ;"
+          },
+          {
+            "code": "c",
+            "value": "24 cm."
+          }
+        ]
+      }
+    ],
+    "500": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "\"A CPI book from Raintree Childrens Books.\""
+          }
+        ]
+      }
+    ],
+    "520": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Discusses how some of the world's psychics have helped to solve crimes."
+          }
+        ]
+      }
+    ],
+    "650": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Parapsychology in criminal investigation"
+          },
+          {
+            "code": "x",
+            "value": "Juvenile literature."
+          }
+        ]
+      },
+      {
+        "ind1": " ",
+        "ind2": "1",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Parapsychology."
+          }
+        ]
+      },
+      {
+        "ind1": " ",
+        "ind2": "1",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Criminal investigation."
+          }
+        ]
+      }
+    ],
+    "852": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "p",
+            "value": "3289100010059"
+          },
+          {
+            "code": "a",
+            "value": "LHS"
+          },
+          {
+            "code": "x",
+            "value": "FSC@aHS Non-Fiction@c20000809"
+          },
+          {
+            "code": "h",
+            "value": "133.8 Wil"
+          }
+        ]
+      }
+    ],
+    "961": [
+      {
+        "ind1": "w",
+        "ind2": "l",
+        "subfields": [
+          {
+            "code": "t",
+            "value": "606"
+          }
+        ]
+      }
+    ],
+    "008": [
+      "000809s1977    ||||||||||||||||||||||||u"
+    ],
+    "010": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "   77014315"
+          }
+        ]
+      }
+    ],
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "081721061X"
+          }
+        ]
+      }
+    ],
+    "040": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "DLC"
+          },
+          {
+            "code": "c",
+            "value": "DLC"
+          },
+          {
+            "code": "d",
+            "value": "DLC"
+          }
+        ]
+      }
+    ],
+    "042": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "lcac"
+          }
+        ]
+      }
+    ],
+    "050": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "BF1045.C7"
+          },
+          {
+            "code": "b",
+            "value": "W54"
+          }
+        ]
+      }
+    ],
+    "082": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "133.8"
+          }
+        ]
+      }
+    ],
+    "005": [
+      "20160614142907.0"
+    ],
+    "001": [
+      "118"
+    ],
+    "003": [
+      "4830800"
+    ]
+  },
+  {
+    "245": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Emotions /"
+          },
+          {
+            "code": "c",
+            "value": "by the editors of Time-Life Books."
+          }
+        ]
+      }
+    ],
+    "260": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Alexandria, Va. :"
+          },
+          {
+            "code": "b",
+            "value": "Time-Life Books,"
+          },
+          {
+            "code": "c",
+            "value": "c1994."
+          }
+        ]
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "144 p. :"
+          },
+          {
+            "code": "b",
+            "value": "ill. (some col.) ;"
+          },
+          {
+            "code": "c",
+            "value": "29 cm."
+          }
+        ]
+      }
+    ],
+    "440": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Journey through the mind and body"
+          }
+        ]
+      }
+    ],
+    "504": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Includes bibliographical references (p. 135-139) and index."
+          }
+        ]
+      }
+    ],
+    "650": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Emotions."
+          }
+        ]
+      },
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Affect (Psychology)"
+          }
+        ]
+      }
+    ],
+    "710": [
+      {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Time-Life Books."
+          }
+        ]
+      }
+    ],
+    "852": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "p",
+            "value": "3289100010079/"
+          },
+          {
+            "code": "a",
+            "value": "LHS"
+          },
+          {
+            "code": "x",
+            "value": "FSC@aHS Non-Fiction@c20000809"
+          },
+          {
+            "code": "h",
+            "value": "152.4 Emo"
+          }
+        ]
+      }
+    ],
+    "961": [
+      {
+        "ind1": "w",
+        "ind2": "l",
+        "subfields": [
+          {
+            "code": "t",
+            "value": "606"
+          }
+        ]
+      }
+    ],
+    "008": [
+      "000809s1994    ||||||||||||||||||||||||u"
+    ],
+    "010": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "   94008885 //r94"
+          }
+        ]
+      }
+    ],
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "0783510608"
+          }
+        ]
+      }
+    ],
+    "050": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "BF511"
+          },
+          {
+            "code": "b",
+            "value": ".E57 1994"
+          }
+        ]
+      }
+    ],
+    "082": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "152.4"
+          }
+        ]
+      }
+    ],
+    "005": [
+      "20160614142907.0"
+    ],
+    "001": [
+      "124"
+    ],
+    "003": [
+      "4830800"
+    ]
+  },
+  {
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Gallant, Roy A."
+          }
+        ]
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Memory :"
+          },
+          {
+            "code": "b",
+            "value": "how it works and how to improve it /"
+          },
+          {
+            "code": "c",
+            "value": "by Roy A. Gallant."
+          }
+        ]
+      }
+    ],
+    "260": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "New York :"
+          },
+          {
+            "code": "b",
+            "value": "Four Winds Press,"
+          },
+          {
+            "code": "c",
+            "value": "c1980."
+          }
+        ]
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "xiv, 108 p. cm."
+          }
+        ]
+      }
+    ],
+    "500": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Includes index."
+          }
+        ]
+      }
+    ],
+    "650": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Memory."
+          }
+        ]
+      },
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Mnemonics."
+          }
+        ]
+      }
+    ],
+    "852": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "p",
+            "value": "3289100010086"
+          },
+          {
+            "code": "a",
+            "value": "LHS"
+          },
+          {
+            "code": "x",
+            "value": "FSC@aHS Non-Fiction@c20000809"
+          },
+          {
+            "code": "h",
+            "value": "153.1 Gal"
+          }
+        ]
+      }
+    ],
+    "961": [
+      {
+        "ind1": "w",
+        "ind2": "l",
+        "subfields": [
+          {
+            "code": "t",
+            "value": "606"
+          }
+        ]
+      }
+    ],
+    "008": [
+      "000809s1980    ||||||||||||||||||||||||u"
+    ],
+    "010": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "   79026459"
+          }
+        ]
+      }
+    ],
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "0590076132 :"
+          },
+          {
+            "code": "c",
+            "value": "$7.95"
+          }
+        ]
+      }
+    ],
+    "050": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "BF385"
+          },
+          {
+            "code": "b",
+            "value": ".G24"
+          }
+        ]
+      }
+    ],
+    "082": [
+      {
+        "ind1": "0",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "153.1/4"
+          }
+        ]
+      }
+    ],
+    "005": [
+      "20160614142908.0"
+    ],
+    "001": [
+      "125"
+    ],
+    "003": [
+      "4830800"
+    ]
+  },
+  {
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Michaud, Ellen."
+          }
+        ]
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Boost your brain power :"
+          },
+          {
+            "code": "b",
+            "value": "a total program to sharpen your thinking and age-proof your mind /"
+          },
+          {
+            "code": "c",
+            "value": "by Ellen Michaud, Russell Wild, and the editors of Prevention magazine."
+          }
+        ]
+      }
+    ],
+    "260": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "[New York] :"
+          },
+          {
+            "code": "b",
+            "value": "Distributed by St. Martin's Press,"
+          },
+          {
+            "code": "c",
+            "value": "c1991."
+          }
+        ]
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "viii, 471 p. :"
+          },
+          {
+            "code": "b",
+            "value": "ill. ;"
+          },
+          {
+            "code": "c",
+            "value": "24 cm."
+          }
+        ]
+      }
+    ],
+    "500": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Includes index."
+          }
+        ]
+      }
+    ],
+    "650": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Thought and thinking."
+          }
+        ]
+      },
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Thought and thinking"
+          },
+          {
+            "code": "x",
+            "value": "Problems, exercises, etc."
+          }
+        ]
+      }
+    ],
+    "700": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Wild, Russell."
+          }
+        ]
+      }
+    ],
+    "730": [
+      {
+        "ind1": "0",
+        "ind2": "1",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Prevention (Emmaus, Pa.)"
+          }
+        ]
+      }
+    ],
+    "740": [
+      {
+        "ind1": "0",
+        "ind2": "1",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Boost your brainpower."
+          }
+        ]
+      }
+    ],
+    "852": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "p",
+            "value": "3289100010088/"
+          },
+          {
+            "code": "a",
+            "value": "LHS"
+          },
+          {
+            "code": "x",
+            "value": "FSC@aHS Non-Fiction@c20000809"
+          },
+          {
+            "code": "h",
+            "value": "153.42 Mic"
+          }
+        ]
+      }
+    ],
+    "961": [
+      {
+        "ind1": "w",
+        "ind2": "l",
+        "subfields": [
+          {
+            "code": "t",
+            "value": "606"
+          }
+        ]
+      }
+    ],
+    "008": [
+      "000809s1991    ||||||||||||||||||||||||u"
+    ],
+    "010": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "   91003914"
+          }
+        ]
+      }
+    ],
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "0878579753 (hard : alk. paper) :"
+          },
+          {
+            "code": "c",
+            "value": "$23.95"
+          }
+        ]
+      }
+    ],
+    "050": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "BF441"
+          },
+          {
+            "code": "b",
+            "value": ".M515 1991"
+          }
+        ]
+      }
+    ],
+    "082": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "153.4/2/076"
+          }
+        ]
+      }
+    ],
+    "005": [
+      "20160614142908.0"
+    ],
+    "001": [
+      "126"
+    ],
+    "003": [
+      "4830800"
+    ]
+  },
+  {
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Winslade, William J."
+          }
+        ]
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Choosing life or death :"
+          },
+          {
+            "code": "b",
+            "value": " a guide for patients, families, and professionals /"
+          },
+          {
+            "code": "c",
+            "value": "William J. Winslade, Judith Wilson Ross."
+          }
+        ]
+      }
+    ],
+    "260": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "London :"
+          },
+          {
+            "code": "b",
+            "value": "Collier Macmillan,"
+          },
+          {
+            "code": "c",
+            "value": "c1986."
+          }
+        ]
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "xvi, 268 p. ;"
+          },
+          {
+            "code": "c",
+            "value": "25 cm."
+          }
+        ]
+      }
+    ],
+    "500": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Includes index."
+          }
+        ]
+      }
+    ],
+    "504": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Bibliography: p. 260-262."
+          }
+        ]
+      }
+    ],
+    "650": [
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Medical ethics."
+          }
+        ]
+      },
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Medical care"
+          },
+          {
+            "code": "x",
+            "value": "Decision making."
+          }
+        ]
+      },
+      {
+        "ind1": " ",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Medical personnel and patient."
+          }
+        ]
+      }
+    ],
+    "700": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Ross, Judith Wilson."
+          }
+        ]
+      }
+    ],
+    "852": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "p",
+            "value": "3289100010129-"
+          },
+          {
+            "code": "a",
+            "value": "LHS"
+          },
+          {
+            "code": "x",
+            "value": "FSC@aHS Non-Fiction@c20000809"
+          },
+          {
+            "code": "h",
+            "value": "174 Win"
+          }
+        ]
+      }
+    ],
+    "961": [
+      {
+        "ind1": "w",
+        "ind2": "l",
+        "subfields": [
+          {
+            "code": "t",
+            "value": "606"
+          }
+        ]
+      }
+    ],
+    "008": [
+      "000809s1986    ||||||||||||||||||||||||u"
+    ],
+    "010": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "   85016299"
+          }
+        ]
+      }
+    ],
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "0029347203"
+          }
+        ]
+      }
+    ],
+    "050": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "R726"
+          },
+          {
+            "code": "b",
+            "value": ".W56 1986"
+          }
+        ]
+      }
+    ],
+    "082": [
+      {
+        "ind1": "0",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "174/.24"
+          }
+        ]
+      }
+    ],
+    "005": [
+      "20160614142909.0"
+    ],
+    "001": [
+      "135"
+    ],
+    "003": [
+      "4830800"
+    ]
+  },
+  {
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Adler, Mortimer Jerome,"
+          },
+          {
+            "code": "d",
+            "value": "1902-"
+          }
+        ]
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Aristotle for everybody :"
+          },
+          {
+            "code": "b",
+            "value": "difficult thought made easy /"
+          },
+          {
+            "code": "c",
+            "value": "by Mortimer J. Adler. -"
+          }
+        ]
+      }
+    ],
+    "260": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "London :"
+          },
+          {
+            "code": "b",
+            "value": "Collier Macmillan,"
+          },
+          {
+            "code": "c",
+            "value": "c1978."
+          }
+        ]
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "xiv, 206 p. ;"
+          },
+          {
+            "code": "c",
+            "value": "22 cm."
+          }
+        ]
+      }
+    ],
+    "504": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Includes bibliographical references."
+          }
+        ]
+      }
+    ],
+    "600": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Aristotle."
+          }
+        ]
+      }
+    ],
+    "852": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "p",
+            "value": "3289100010145Y"
+          },
+          {
+            "code": "a",
+            "value": "LHS"
+          },
+          {
+            "code": "x",
+            "value": "FSC@aHS Non-Fiction@c20000809"
+          },
+          {
+            "code": "h",
+            "value": "185 Adl"
+          }
+        ]
+      }
+    ],
+    "961": [
+      {
+        "ind1": "w",
+        "ind2": "l",
+        "subfields": [
+          {
+            "code": "t",
+            "value": "606"
+          }
+        ]
+      }
+    ],
+    "008": [
+      "000809s1978    nyu      b    000 0 eng u"
+    ],
+    "010": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "   78000853"
+          }
+        ]
+      }
+    ],
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "0025031007"
+          }
+        ]
+      }
+    ],
+    "050": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "B481"
+          },
+          {
+            "code": "b",
+            "value": ".A3"
+          }
+        ]
+      }
+    ],
+    "005": [
+      "20160614142911.0"
+    ],
+    "001": [
+      "144"
+    ],
+    "003": [
+      "4830800"
+    ]
+  },
+  {
+    "100": [
+      {
+        "ind1": "1",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Ferguson, John,"
+          },
+          {
+            "code": "d",
+            "value": "1921-"
+          }
+        ]
+      }
+    ],
+    "245": [
+      {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Aristotle."
+          }
+        ]
+      }
+    ],
+    "260": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "New York,"
+          },
+          {
+            "code": "b",
+            "value": "Twayne Publishers"
+          },
+          {
+            "code": "c",
+            "value": "[1972]"
+          }
+        ]
+      }
+    ],
+    "300": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "195 p."
+          },
+          {
+            "code": "c",
+            "value": "21 cm."
+          }
+        ]
+      }
+    ],
+    "440": [
+      {
+        "ind1": "0",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Twayne's world authors series, TWAS 211. Greece"
+          }
+        ]
+      }
+    ],
+    "504": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Includes bibliographical references."
+          }
+        ]
+      }
+    ],
+    "600": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "Aristotle."
+          }
+        ]
+      }
+    ],
+    "852": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "p",
+            "value": "3289100010146Z"
+          },
+          {
+            "code": "a",
+            "value": "LHS"
+          },
+          {
+            "code": "x",
+            "value": "FSC@aHS Non-Fiction@c20000809"
+          },
+          {
+            "code": "h",
+            "value": "185 Fer"
+          }
+        ]
+      }
+    ],
+    "961": [
+      {
+        "ind1": "w",
+        "ind2": "l",
+        "subfields": [
+          {
+            "code": "t",
+            "value": "606"
+          }
+        ]
+      }
+    ],
+    "007": [
+      "ta"
+    ],
+    "008": [
+      "000809s1972    ||||||||||||||||||||||||u"
+    ],
+    "010": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "   70186637 //r83"
+          }
+        ]
+      }
+    ],
+    "050": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "B485"
+          },
+          {
+            "code": "b",
+            "value": ".F47"
+          }
+        ]
+      }
+    ],
+    "082": [
+      {
+        "ind1": "0",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "B"
+          }
+        ]
+      }
+    ],
+    "005": [
+      "20160614142911.0"
+    ],
+    "001": [
+      "145"
+    ],
+    "003": [
+      "4830800"
+    ]
+  },
+  {
+    "245": [
+      {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "The encyclopedia of world religions /"
+          },
+          {
+            "code": "c",
+            "value": "Robert S. Ellwood, general editor ; Gregory D. Alles, ass"
+          }
+        ]
+      }
+    ],
+    "260": [
+      {
+        "subfields": []
+      }
+    ],
+    "300": [
+      {
+        "subfields": []
+      }
+    ],
+    "504": [
+      {
+        "subfields": []
+      }
+    ],
+    "650": [
+      {
+        "subfields": []
+      }
+    ],
+    "700": [
+      {
+        "subfields": []
+      },
+      {
+        "subfields": []
+      }
+    ],
+    "852": [
+      {
+        "subfields": []
+      }
+    ],
+    "961": [
+      {
+        "subfields": []
+      }
+    ],
+    "008": [
+      "000809s1998    ||||||||||||||||||||||||u"
+    ],
+    "010": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "   97039529"
+          }
+        ]
+      }
+    ],
+    "020": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "0816035040 (alk. paper)"
+          }
+        ]
+      }
+    ],
+    "040": [
+      {
+        "ind1": " ",
+        "ind2": " ",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "DLC"
+          },
+          {
+            "code": "c",
+            "value": "DLC"
+          },
+          {
+            "code": "d",
+            "value": "DLC"
+          }
+        ]
+      }
+    ],
+    "050": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "BL80.2"
+          },
+          {
+            "code": "b",
+            "value": ".E497 1998"
+          }
+        ]
+      }
+    ],
+    "082": [
+      {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "code": "a",
+            "value": "200/.3"
+          }
+        ]
+      }
+    ],
+    "005": [
+      ""
+    ],
+    "001": [
+      ""
+    ],
+    "003": [
+      ""
+    ]
+  }
+]

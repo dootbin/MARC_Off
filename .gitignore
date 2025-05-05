@@ -1,0 +1,45 @@
+# Build output
+/marc_off
+/dist/
+/bin/
+
+# Deno cache and lock files
+/.deno/
+/deno.lock
+
+# Editor and IDE files
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment files
+.env
+.env.local
+
+# Test data and temp files
+/test_output/
+*.tmp
+*.test.json
+/sample_output.json
+/direct_test_output.json
+/temp/
+/tmp/
+
+# Log files
+*.log
+/logs/
+
+# Large data files
+*.marc
+*.mrc
+*.001
+/full_export.json
+/exported_marc*.json
+
+# System files
+.DS_Store
+Thumbs.db
