@@ -1,0 +1,113 @@
+name: Create Release
+
+on:
+  workflow_run:
+    workflows: ["Test and Lint"]
+    branches: [ "master" ]
+    types:
+      - completed
+
+jobs:
+  bump-version-and-release:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install semver
+        run: npm install -g semver
+
+      - name: Setup Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Bump version
+        id: bump_version
+        run: |
+          # Get the latest tag or start with v0.1.0 if no tags exist
+          LATEST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "v0.1.0")
+          echo "Latest tag: $LATEST_TAG"
+          
+          # Remove 'v' prefix for semver
+          CURRENT_VERSION=${LATEST_TAG#v}
+          
+          # Determine if this is a major, minor, or patch update based on commit messages
+          # Default to patch
+          UPDATE_TYPE="patch"
+          
+          # Check commit messages since last tag
+          COMMITS=$(git log --pretty=format:"%s" $LATEST_TAG..HEAD)
+          echo "Commits since last tag:"
+          echo "$COMMITS"
+          
+          # Check for keywords in commit messages to determine update type
+          if echo "$COMMITS" | grep -q -i "BREAKING CHANGE\|BREAKING-CHANGE\|major:"; then
+            UPDATE_TYPE="major"
+          elif echo "$COMMITS" | grep -q -i "feat:\|feature:\|minor:"; then
+            UPDATE_TYPE="minor"
+          fi
+          
+          echo "Update type: $UPDATE_TYPE"
+          
+          # Bump version
+          NEW_VERSION=$(semver -i $UPDATE_TYPE $CURRENT_VERSION)
+          NEW_TAG="v$NEW_VERSION"
+          
+          echo "New version: $NEW_TAG"
+          echo "new_tag=$NEW_TAG" >> $GITHUB_OUTPUT
+          echo "new_version=$NEW_VERSION" >> $GITHUB_OUTPUT
+          
+          # Create version file
+          echo "export const VERSION = \"$NEW_VERSION\";" > version.ts
+          
+          # Commit and push new version
+          git add version.ts
+          git commit -m "Bump version to $NEW_TAG [skip ci]"
+          git tag $NEW_TAG
+          git push origin $NEW_TAG
+          git push
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Build binary
+        run: |
+          deno compile --allow-read --allow-write --output bin/marc_off_bin cli/marc_to_json.ts
+
+      - name: Create GitHub Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.bump_version.outputs.new_tag }}
+          release_name: Release ${{ steps.bump_version.outputs.new_tag }}
+          draft: false
+          prerelease: false
+          body: |
+            Release ${{ steps.bump_version.outputs.new_tag }}
+            
+            See [CHANGELOG.md](https://github.com/${{ github.repository }}/blob/master/CHANGELOG.md) for details.
+
+      - name: Upload Release Asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./bin/marc_off_bin
+          asset_name: marc_off_bin
+          asset_content_type: application/octet-stream

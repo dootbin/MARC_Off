@@ -1,0 +1,41 @@
+name: Code Coverage
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  coverage:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Run tests with coverage
+        run: deno test --coverage=coverage --allow-read --allow-write
+
+      - name: Generate coverage report
+        run: deno coverage coverage --lcov > lcov.info
+
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@v3
+        with:
+          file: ./lcov.info
+          fail_ci_if_error: false
+          verbose: true
+
+      - name: Save coverage report as artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: coverage-report
+          path: |
+            coverage
+            lcov.info

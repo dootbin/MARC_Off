@@ -8,10 +8,10 @@
 console.log("Starting MARC converter...");
 
 import { parse } from "https://deno.land/std@0.181.0/flags/mod.ts";
-import { MarcParser } from "./src/parser.ts";
-import { MarcConverter } from "./src/converter.ts";
-import { HumanReadableConverter } from "./src/humanReadableConverter.ts";
-import { RecordExporter } from "./src/recordExporter.ts";
+import { MarcParser } from "../src/parser.ts";
+import { MarcConverter } from "../src/converter.ts";
+import { HumanReadableConverter } from "../src/humanReadableConverter.ts";
+import { RecordExporter } from "../src/recordExporter.ts";
 import { ensureDir } from "https://deno.land/std@0.181.0/fs/ensure_dir.ts";
 
 const args = parse(Deno.args, {

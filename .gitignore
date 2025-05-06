@@ -1,7 +1,6 @@
 # Build output
-/marc_off
+/bin/marc_off_bin
 /dist/
-/bin/
 
 # Deno cache and lock files
 /.deno/
@@ -22,23 +21,41 @@
 
 # Test data and temp files
 /test_output/
+/test_output*/
+/tmp_test/
+/tmp_dir/
 *.tmp
 *.test.json
-/sample_output.json
-/direct_test_output.json
 /temp/
 /tmp/
+/comparison_report/
+/json_records/
+/working_dir/json_output/
+/working_dir/comparison_report/
+/sample_comparison/
+/detailed_comparison/
 
 # Log files
 *.log
 /logs/
 
 # Large data files
-*.marc
-*.mrc
 *.001
 /full_export.json
 /exported_marc*.json
+/full_sample.json
+/comparison.txt
+/comparison_summary.txt
+
+# Output files
+/output.marc
+/output*.marc
+
+# Exception for sample files used for testing
+!/sample.marc
+!/sample.json
+!/test_data/sample_record.json
+!/test_data/json_dir/sample_record.json
 
 # System files
 .DS_Store
