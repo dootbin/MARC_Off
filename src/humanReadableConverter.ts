@@ -109,16 +109,16 @@ const FIELD_NAMES: Record<string, string> = {
   "100": "author",
   "110": "corporateAuthor",
   "111": "meetingName",
-  "130": "uniformTitle",
+  "130": "uniformTitle", // Main entry uniform title
   
   // Title and Title-Related Fields (210-247)
   "210": "abbreviatedTitle",
   "222": "keyTitle",
-  "240": "uniformTitle",
+  "240": "uniformTitle", // Non-main entry uniform title (same semantic meaning as 130)
   "242": "translationOfTitle",
   "243": "collectiveUniformTitle",
   "245": "title",
-  "246": "alternativeTitle",
+  "246": "variantTitle", // Consistently use variantTitle for field 246
   "247": "formerTitle",
   
   // Edition, Imprint, etc. Fields (250-270)
@@ -129,7 +129,7 @@ const FIELD_NAMES: Record<string, string> = {
   "257": "countryOfProducingEntity",
   "258": "philatelicIssueData",
   "260": "publication",
-  "263": "projectedPublicationDate",
+  "263": "projectedPublicationDate", // Explicit mapping for projected publication date
   "264": "productionPublicationDistribution",
   "270": "addressInformation",
   
@@ -157,7 +157,7 @@ const FIELD_NAMES: Record<string, string> = {
   "362": "datesOfPublication",
   
   // Series Statement Fields (440-490)
-  "440": "seriesStatement",
+  "440": "seriesTitle", // Consistently use seriesTitle for field 440
   "490": "series",
   
   // Note Fields (500-599)
@@ -309,6 +309,45 @@ const SUBFIELD_NAMES: Record<string, Record<string, string>> = {
     "h": "medium",
     "p": "partName",
     "n": "partNumber"
+  },
+  // Uniform Title (240)
+  "240": {
+    "a": "title",
+    "d": "date",
+    "f": "date",
+    "g": "miscellaneous",
+    "h": "medium",
+    "k": "form",
+    "l": "language",
+    "m": "medium",
+    "n": "partNumber",
+    "o": "arrangedStatement",
+    "p": "partName",
+    "r": "key",
+    "s": "version"
+  },
+  // Variant Title (246)
+  "246": {
+    "a": "title",
+    "b": "remainderOfTitle",
+    "f": "date",
+    "g": "miscellaneous",
+    "h": "medium",
+    "i": "displayText",
+    "n": "partNumber",
+    "p": "partName"
+  },
+  // Projected Publication Date (263)
+  "263": {
+    "a": "date"
+  },
+  // Series Title (440)
+  "440": {
+    "a": "title",
+    "n": "partNumber",
+    "p": "partName",
+    "v": "volume",
+    "x": "issn"
   },
   // Author
   "100": {
@@ -583,7 +622,10 @@ export class HumanReadableConverter {
    */
   private static parseFixedLengthData(data: string): Record<string, unknown> {
     // Default empty result
-    const result: Record<string, unknown> = {};
+    const result: Record<string, unknown> = {
+      // Always preserve the raw value for round-trip conversion
+      raw: data
+    };
     
     try {
       // Only process if we have data of expected length
